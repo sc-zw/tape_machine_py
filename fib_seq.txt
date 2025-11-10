@@ -1,0 +1,437 @@
+program:
+
+g₀ ⟶  OOg₁
+g₁| ⟶  |g₁
+g₁O ⟶  g₂OO
+|g₂ ⟶  g₂|
+Og₂ ⟶  h₀O
+h₀O ⟶  Oh₁
+h₀| ⟶  |h₀
+h₁| ⟶  |h₁
+h₁O ⟶  Oh₂
+h₂| ⟶  |h₂
+h₂O| ⟶  h₃|O
+h₂O ⟶  h₆
+|h₃ ⟶  h₃|
+|h₃ ⟶  h₃|
+Oh₃ ⟶  h₄O
+|h₄ ⟶  h₄|
+Oh₄ ⟶  h₅|O
+|h₅ ⟶  h₅|
+Oh₅ ⟶  Oh₀
+|h₆ ⟶  h₆|
+Oh₆ ⟶  h₇
+|h₇ ⟶  h₇|
+Oh₇ ⟶  h₈O
+|h₈ ⟶  h₈|
+Oh₈ ⟶  h₉O
+|h₉ ⟶  h₉|
+h₉ ⟶  f₁
+f₁| ⟶  f₂
+f₂| ⟶  |f₂
+f₂O ⟶  g₀
+f₀|| ⟶  ||f₄
+f₄| ⟶  |f₄
+f₄ ⟶  f₅OO|
+|f₅ ⟶  f₅|
+f₅ ⟶  f₁
+f₀| ⟶  f₉|
+f₀ ⟶  f₉|
+f₁O ⟶  f₆
+f₆| ⟶  f₆
+f₆O ⟶  f₉
+
+examples:
+
+f₀
+f₉|
+program halt
+calculation summary: f₀ ⟶ ⟶  f₉|
+numerical interpretation : f(0) = 1
+
+f₀|
+f₉|
+program halt
+calculation summary: f₀| ⟶ ⟶  f₉|
+numerical interpretation : f(1) = 1
+
+f₀||
+||f₄
+||f₅OO|
+|f₅|OO|
+f₅||OO|
+f₁||OO|
+f₂|OO|
+|f₂OO|
+|g₀O|
+|OOg₁O|
+|OOg₂OO|
+|Oh₀OOO|
+|OOh₁OO|
+|OOOh₂O|
+|OOOh₃|O
+|OOh₄O|O
+|Oh₅|OO|O
+|Oh₀|OO|O
+|O|h₀OO|O
+|O|Oh₁O|O
+|O|OOh₂|O
+|O|OO|h₂O
+|O|OO|h₆
+|O|OOh₆|
+|O|Oh₇|
+|O|h₈O|
+|Oh₈|O|
+|h₉O|O|
+h₉|O|O|
+f₁|O|O|
+f₂O|O|
+g₀|O|
+OOg₁|O|
+OO|g₁O|
+OO|g₂OO|
+OOg₂|OO|
+Oh₀O|OO|
+OOh₁|OO|
+OO|h₁OO|
+OO|Oh₂O|
+OO|Oh₃|O
+OO|h₄O|O
+OOh₄|O|O
+Oh₅|O|O|O
+Oh₀|O|O|O
+O|h₀O|O|O
+O|Oh₁|O|O
+O|O|h₁O|O
+O|O|Oh₂|O
+O|O|O|h₂O
+O|O|O|h₆
+O|O|Oh₆|
+O|O|h₇|
+O|Oh₇||
+O|h₈O||
+Oh₈|O||
+h₉O|O||
+f₁O|O||
+f₆|O||
+f₆O||
+f₉||
+program halt
+calculation summary: f₀|| ⟶ ⟶  f₉||
+numerical interpretation : f(2) = 2
+
+f₀|||
+||f₄|
+|||f₄
+|||f₅OO|
+||f₅|OO|
+|f₅||OO|
+f₅|||OO|
+f₁|||OO|
+f₂||OO|
+|f₂|OO|
+||f₂OO|
+||g₀O|
+||OOg₁O|
+||OOg₂OO|
+||Oh₀OOO|
+||OOh₁OO|
+||OOOh₂O|
+||OOOh₃|O
+||OOh₄O|O
+||Oh₅|OO|O
+||Oh₀|OO|O
+||O|h₀OO|O
+||O|Oh₁O|O
+||O|OOh₂|O
+||O|OO|h₂O
+||O|OO|h₆
+||O|OOh₆|
+||O|Oh₇|
+||O|h₈O|
+||Oh₈|O|
+||h₉O|O|
+|h₉|O|O|
+h₉||O|O|
+f₁||O|O|
+f₂|O|O|
+|f₂O|O|
+|g₀|O|
+|OOg₁|O|
+|OO|g₁O|
+|OO|g₂OO|
+|OOg₂|OO|
+|Oh₀O|OO|
+|OOh₁|OO|
+|OO|h₁OO|
+|OO|Oh₂O|
+|OO|Oh₃|O
+|OO|h₄O|O
+|OOh₄|O|O
+|Oh₅|O|O|O
+|Oh₀|O|O|O
+|O|h₀O|O|O
+|O|Oh₁|O|O
+|O|O|h₁O|O
+|O|O|Oh₂|O
+|O|O|O|h₂O
+|O|O|O|h₆
+|O|O|Oh₆|
+|O|O|h₇|
+|O|Oh₇||
+|O|h₈O||
+|Oh₈|O||
+|h₉O|O||
+h₉|O|O||
+f₁|O|O||
+f₂O|O||
+g₀|O||
+OOg₁|O||
+OO|g₁O||
+OO|g₂OO||
+OOg₂|OO||
+Oh₀O|OO||
+OOh₁|OO||
+OO|h₁OO||
+OO|Oh₂O||
+OO|Oh₃|O|
+OO|h₄O|O|
+OOh₄|O|O|
+Oh₅|O|O|O|
+Oh₀|O|O|O|
+O|h₀O|O|O|
+O|Oh₁|O|O|
+O|O|h₁O|O|
+O|O|Oh₂|O|
+O|O|O|h₂O|
+O|O|O|h₃|O
+O|O|Oh₃||O
+O|O|h₄O||O
+O|Oh₄|O||O
+O|h₅|O|O||O
+Oh₅||O|O||O
+Oh₀||O|O||O
+O|h₀|O|O||O
+O||h₀O|O||O
+O||Oh₁|O||O
+O||O|h₁O||O
+O||O|Oh₂||O
+O||O|O|h₂|O
+O||O|O||h₂O
+O||O|O||h₆
+O||O|O|h₆|
+O||O|Oh₆||
+O||O|h₇||
+O||Oh₇|||
+O||h₈O|||
+O|h₈|O|||
+Oh₈||O|||
+h₉O||O|||
+f₁O||O|||
+f₆||O|||
+f₆|O|||
+f₆O|||
+f₉|||
+program halt
+calculation summary: f₀||| ⟶ ⟶  f₉|||
+numerical interpretation : f(3) = 3
+
+f₀||||
+||f₄||
+|||f₄|
+||||f₄
+||||f₅OO|
+|||f₅|OO|
+||f₅||OO|
+|f₅|||OO|
+f₅||||OO|
+f₁||||OO|
+f₂|||OO|
+|f₂||OO|
+||f₂|OO|
+|||f₂OO|
+|||g₀O|
+|||OOg₁O|
+|||OOg₂OO|
+|||Oh₀OOO|
+|||OOh₁OO|
+|||OOOh₂O|
+|||OOOh₃|O
+|||OOh₄O|O
+|||Oh₅|OO|O
+|||Oh₀|OO|O
+|||O|h₀OO|O
+|||O|Oh₁O|O
+|||O|OOh₂|O
+|||O|OO|h₂O
+|||O|OO|h₆
+|||O|OOh₆|
+|||O|Oh₇|
+|||O|h₈O|
+|||Oh₈|O|
+|||h₉O|O|
+||h₉|O|O|
+|h₉||O|O|
+h₉|||O|O|
+f₁|||O|O|
+f₂||O|O|
+|f₂|O|O|
+||f₂O|O|
+||g₀|O|
+||OOg₁|O|
+||OO|g₁O|
+||OO|g₂OO|
+||OOg₂|OO|
+||Oh₀O|OO|
+||OOh₁|OO|
+||OO|h₁OO|
+||OO|Oh₂O|
+||OO|Oh₃|O
+||OO|h₄O|O
+||OOh₄|O|O
+||Oh₅|O|O|O
+||Oh₀|O|O|O
+||O|h₀O|O|O
+||O|Oh₁|O|O
+||O|O|h₁O|O
+||O|O|Oh₂|O
+||O|O|O|h₂O
+||O|O|O|h₆
+||O|O|Oh₆|
+||O|O|h₇|
+||O|Oh₇||
+||O|h₈O||
+||Oh₈|O||
+||h₉O|O||
+|h₉|O|O||
+h₉||O|O||
+f₁||O|O||
+f₂|O|O||
+|f₂O|O||
+|g₀|O||
+|OOg₁|O||
+|OO|g₁O||
+|OO|g₂OO||
+|OOg₂|OO||
+|Oh₀O|OO||
+|OOh₁|OO||
+|OO|h₁OO||
+|OO|Oh₂O||
+|OO|Oh₃|O|
+|OO|h₄O|O|
+|OOh₄|O|O|
+|Oh₅|O|O|O|
+|Oh₀|O|O|O|
+|O|h₀O|O|O|
+|O|Oh₁|O|O|
+|O|O|h₁O|O|
+|O|O|Oh₂|O|
+|O|O|O|h₂O|
+|O|O|O|h₃|O
+|O|O|Oh₃||O
+|O|O|h₄O||O
+|O|Oh₄|O||O
+|O|h₅|O|O||O
+|Oh₅||O|O||O
+|Oh₀||O|O||O
+|O|h₀|O|O||O
+|O||h₀O|O||O
+|O||Oh₁|O||O
+|O||O|h₁O||O
+|O||O|Oh₂||O
+|O||O|O|h₂|O
+|O||O|O||h₂O
+|O||O|O||h₆
+|O||O|O|h₆|
+|O||O|Oh₆||
+|O||O|h₇||
+|O||Oh₇|||
+|O||h₈O|||
+|O|h₈|O|||
+|Oh₈||O|||
+|h₉O||O|||
+h₉|O||O|||
+f₁|O||O|||
+f₂O||O|||
+g₀||O|||
+OOg₁||O|||
+OO|g₁|O|||
+OO||g₁O|||
+OO||g₂OO|||
+OO|g₂|OO|||
+OOg₂||OO|||
+Oh₀O||OO|||
+OOh₁||OO|||
+OO|h₁|OO|||
+OO||h₁OO|||
+OO||Oh₂O|||
+OO||Oh₃|O||
+OO||h₄O|O||
+OO|h₄|O|O||
+OOh₄||O|O||
+Oh₅|O||O|O||
+Oh₀|O||O|O||
+O|h₀O||O|O||
+O|Oh₁||O|O||
+O|O|h₁|O|O||
+O|O||h₁O|O||
+O|O||Oh₂|O||
+O|O||O|h₂O||
+O|O||O|h₃|O|
+O|O||Oh₃||O|
+O|O||h₄O||O|
+O|O|h₄|O||O|
+O|Oh₄||O||O|
+O|h₅|O||O||O|
+Oh₅||O||O||O|
+Oh₀||O||O||O|
+O|h₀|O||O||O|
+O||h₀O||O||O|
+O||Oh₁||O||O|
+O||O|h₁|O||O|
+O||O||h₁O||O|
+O||O||Oh₂||O|
+O||O||O|h₂|O|
+O||O||O||h₂O|
+O||O||O||h₃|O
+O||O||O|h₃||O
+O||O||Oh₃|||O
+O||O||h₄O|||O
+O||O|h₄|O|||O
+O||Oh₄||O|||O
+O||h₅|O||O|||O
+O|h₅||O||O|||O
+Oh₅|||O||O|||O
+Oh₀|||O||O|||O
+O|h₀||O||O|||O
+O||h₀|O||O|||O
+O|||h₀O||O|||O
+O|||Oh₁||O|||O
+O|||O|h₁|O|||O
+O|||O||h₁O|||O
+O|||O||Oh₂|||O
+O|||O||O|h₂||O
+O|||O||O||h₂|O
+O|||O||O|||h₂O
+O|||O||O|||h₆
+O|||O||O||h₆|
+O|||O||O|h₆||
+O|||O||Oh₆|||
+O|||O||h₇|||
+O|||O|h₇||||
+O|||Oh₇|||||
+O|||h₈O|||||
+O||h₈|O|||||
+O|h₈||O|||||
+Oh₈|||O|||||
+h₉O|||O|||||
+f₁O|||O|||||
+f₆|||O|||||
+f₆||O|||||
+f₆|O|||||
+f₆O|||||
+f₉|||||
+program halt
+calculation summary: f₀|||| ⟶ ⟶  f₉|||||
+numerical interpretation : f(4) = 5
+

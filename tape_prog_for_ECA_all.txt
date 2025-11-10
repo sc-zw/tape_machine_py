@@ -1,0 +1,8960 @@
+tape program for ECA rule 0
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 1
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 2
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 3
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 4
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 5
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 6
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 7
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 8
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 9
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 10
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 11
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 12
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 13
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 14
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 15
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 16
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 17
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 18
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 19
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 20
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 21
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 22
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 23
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 24
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 25
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 26
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 27
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 28
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 29
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 30
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 31
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 32
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 33
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 34
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 35
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 36
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 37
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 38
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 39
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 40
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 41
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 42
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 43
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 44
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 45
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 46
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 47
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 48
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 49
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 50
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 51
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 52
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 53
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 54
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 55
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 56
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 57
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 58
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 59
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 60
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 61
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 62
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 63
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 64
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 65
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 66
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 67
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 68
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 69
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 70
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 71
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 72
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 73
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 74
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 75
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 76
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 77
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 78
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 79
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 80
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 81
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 82
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 83
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 84
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 85
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 86
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 87
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 88
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 89
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 90
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 91
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 92
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 93
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 94
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 95
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 96
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 97
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 98
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 99
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 100
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 101
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 102
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 103
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 104
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 105
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 106
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 107
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 108
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 109
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 110
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 111
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 112
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 113
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 114
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 115
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 116
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 117
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 118
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 119
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 120
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 121
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 122
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 123
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 124
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 125
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 126
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 127
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > Op||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 128
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 129
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 130
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 131
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 132
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 133
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 134
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 135
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 136
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 137
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 138
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 139
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 140
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 141
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 142
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 143
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 144
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 145
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 146
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 147
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 148
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 149
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 150
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 151
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 152
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 153
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 154
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 155
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 156
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 157
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 158
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 159
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 160
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 161
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 162
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 163
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 164
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 165
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 166
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 167
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 168
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 169
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 170
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 171
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 172
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 173
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 174
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 175
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 176
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 177
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 178
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 179
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 180
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 181
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 182
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 183
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 184
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 185
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 186
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 187
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 188
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 189
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 190
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 191
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > Op|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 192
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 193
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 194
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 195
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 196
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 197
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 198
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 199
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 200
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 201
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 202
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 203
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 204
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 205
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 206
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 207
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 208
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 209
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 210
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 211
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 212
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 213
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 214
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 215
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 216
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 217
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 218
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 219
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 220
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 221
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 222
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 223
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > OpO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 224
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 225
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 226
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 227
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 228
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 229
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 230
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 231
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 232
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 233
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 234
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 235
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 236
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 237
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 238
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 239
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > OpOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 240
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 241
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 242
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 243
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 244
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 245
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 246
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 247
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > Op||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 248
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 249
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 250
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 251
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > Op|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 252
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 253
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > OpO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 254
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > OpOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
+tape program for ECA rule 255
+
+fO > Og
+f| > |k
+gO > Og
+g| > |g
+Og > hOO
+|g > j|O
+kO > Ok
+k| > |k
+Ok > hO|
+|k > j||
+Oj > jO
+|j > j|
+Oh > hO
+|h > h|
+j > p|
+h > pO
+pOOO > |pOO
+pOO| > |pO|
+pO|O > |p|O
+pO|| > |p||
+p|OO > |pOO
+p|O| > |pO|
+p||O > |p|O
+p||| > |p||
+pOO > q
+pO| > q
+p|O > q
+p|| > q
+Oq > qO
+|q > q|
+
+
+
